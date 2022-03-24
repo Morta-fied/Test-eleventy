@@ -1,3 +1,10 @@
+---
+title: about page
+layout: base.njk
+tags: navItem
+---
+
+
 <div class="topnav" id="myTopnav">
   <a href="index.html" class="active">Home</a>
   <a href="about.html">About</a>
