@@ -1,9 +1,9 @@
 ---
-title: about page
+siteName: mark josephs portfolio
+title: about 
 layout: base.njk
 tags: navItem
 ---
-
 
 <div class="topnav" id="myTopnav">
   <a href="index.html" class="active">Home</a>
